@@ -1,0 +1,12 @@
+CMakeFiles/
+CMakeCache.txt
+cmake-build-debug/
+cmake-build-*/
+
+.idea/
+*.iml
+
+.vscode/
+
+.DS_Store
+Thumbs.db
