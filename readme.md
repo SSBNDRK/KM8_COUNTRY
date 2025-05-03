@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 Функціонал
+## 🔧 Можливості
 
 - Введення користувачем назви країни (англійською або німецькою, наприклад: `germany`, `deutschland`)
 - Надсилання HTTP-запиту через libcurl
@@ -13,15 +13,6 @@
   - Назви країни
   - Столиці
   - Регіону
-
----
-
-## 🛠 Використані технології
-
-- C++20
-- [libcurl](https://curl.se/libcurl/)
-- [nlohmann/json](https://github.com/nlohmann/json)
-- API: [restcountries.com](https://restcountries.com)
 
 ---
 
